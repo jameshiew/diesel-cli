@@ -2,7 +2,7 @@
 
 Docker images containing the [Diesel](https://diesel.rs/) CLI for Postgres.
 
-## Generating `schema.rs`
+## Generating `schema.rs`
 
 You can run a print-schema container like below, that will run all migrations against a fresh Postgres database and then print `schema.rs` to stdout.
 
